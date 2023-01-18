@@ -1,0 +1,8 @@
+.hero-container {
+  background: url(../assets/images/hero-image.jpg);
+  height: 100vh;
+  object-fit: cover;
+}
+
+/* public/images/hero-image.jpg */
+/* /Users/jasonmwenyo/Desktop/portfolio-website/public/images */
