@@ -6,6 +6,14 @@ function Navbar() {
     return (
         <div className='navbar--container'>
             <img id='logo' src={logo} />
+            <div>
+                <ul>
+                    <li>Home</li>
+                    <li>Abouut</li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </div>
         </div>
     )
 }
