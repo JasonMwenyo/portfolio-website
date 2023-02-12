@@ -1,20 +1,22 @@
 #logo {
   width: 80px;
-  /* height: 10px; */
+  height: 80px;
+  /* padding-right: 40%; */
 }
 
 .navbar--container {
   display: flex;
+  background-color: #ffffff;
 }
 
 ul {
   display: flex;
   align-items: center;
+  padding-left: 50%;
 }
 
 li {
-  /*  */
-  /* display: flex; */
-  /* margin: 100px; */
   list-style: none;
+  padding: 0 30px;
+  color: #000000;
 }
