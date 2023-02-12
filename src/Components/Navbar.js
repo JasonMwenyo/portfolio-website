@@ -5,15 +5,13 @@ import "./Navbar.css"
 function Navbar() {
     return (
         <div className='navbar--container'>
-            <img id='logo' src={logo} />
-            <div>
-                <ul>
-                    <li>Home</li>
-                    <li>Abouut</li>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </div>
+            <img id='logo' src={logo} alt='Json Developer' />
+            <ul>
+                <li>HOME</li>
+                <li>ABOUT</li>
+                <li>SERVICES</li>
+                <li>WORK</li>
+            </ul>
         </div>
     )
 }

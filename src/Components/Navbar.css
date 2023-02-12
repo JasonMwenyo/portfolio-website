@@ -2,3 +2,19 @@
   width: 80px;
   /* height: 10px; */
 }
+
+.navbar--container {
+  display: flex;
+}
+
+ul {
+  display: flex;
+  align-items: center;
+}
+
+li {
+  /*  */
+  /* display: flex; */
+  /* margin: 100px; */
+  list-style: none;
+}
